@@ -198,3 +198,65 @@ iframe{
     background-color: #EBEBEB;
     text-align: left;
 }
+.container-handshake{
+    width: 1140px;
+    height: 313px;
+    margin: 0 auto;
+    border-radius: 16px;
+    background-image:  url('../B10A1-Challenge-Begins/assets/handshake.jpg');
+
+}
+.support{
+    padding: 64px 48px;
+}
+.hand-title{
+    font-weight: 600;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    margin-bottom: 16px;
+}
+.hand-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.input-field{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    margin-top: 24px;
+    margin-bottom: 64px;
+}
+.field{
+    width: 548px;
+    height: 57px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.field-submit{
+    width: 120px;
+    height: 57px;
+    border-radius: 8px;
+    color: #0D1321;
+    text-align: center;
+}
+.container-footer{
+    max-width: 1440px;
+    max-height: 100px;
+    margin: 80px auto;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    margin: 32px 150px;
+    align-items: center;
+}
+.footer-title{
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+
