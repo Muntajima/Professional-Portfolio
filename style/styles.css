@@ -12,19 +12,24 @@ nav{
     justify-content: space-between;
     align-items: center;
     max-width: 1440px;
-    margin-top: 50px;
-    margin-left: 150px
+    margin: 0 auto;
 }
 
 .nav-title{
     font-weight: 800;
     font-size: 28px; 
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .nav-button{
     width: 244px;
     height: 57px;
     border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 38px;
+    margin-bottom: 38px;
 }
 nav button a{
     text-decoration: none;
