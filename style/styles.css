@@ -1,0 +1,158 @@
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.primary-color{
+    color: #0D1321;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1440px;
+    margin-top: 50px;
+    margin-left: 150px
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 28px; 
+}
+
+.nav-button{
+    width: 244px;
+    height: 57px;
+    border-radius: 8px;
+}
+nav button a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20;
+}
+.banner{
+    max-width: 1440px;
+    max-height: 652px;
+    margin: 0 auto;
+    background-image: url('../B10A1-Challenge-Begins/assets/Hero-bg.png');
+}
+.banner-content{
+    padding: 26px 221px 45px 221px;
+    text-align: center;   
+}
+
+.banner-title{
+    font-weight: 800;
+    font-size: 48px;
+   
+}
+.banner-description{
+    font-weight: 400;
+    font-size: 16px;
+   
+}
+.banner-btn{
+    width: 244px;
+    height: 65px;
+    border-radius: 8px;
+    background-color: #0D1321;
+   
+}
+.contact{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+/* main */
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+    gap: 32px;
+}
+.container-title{
+    max-width: 946px;
+    max-height: 336px;
+    margin: 97px;
+
+}
+.web-title{
+    font-weight: 800;
+    font-size: 32px;
+    text-align: center;
+    margin: 80px 144px 20px;
+}
+.web-description{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+.row{
+    max-width: 946px;
+    max-height: 336px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    gap: 108px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+}
+.row-title{
+    font-weight: 700;
+    font-size: 24px;
+    color: #3D414B;
+}
+.row-box{
+    width: 449px;
+    height: 136px;
+    
+}
+.row-description{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.row-button{
+    width: 180px;
+    height: 40px;
+}
+.button-text{
+    font-weight: 600;
+    font-size: 20px;
+    color: #0D1321;
+    text-decoration: none;
+}
+.row1-img{
+    padding-left: 48px;
+}
+
+.inspiration{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.my-inspiration{
+    margin-left: 144px;
+    margin-right: 144px;
+    margin-bottom: 48px;
+}
+.ins-title{
+    font-weight: 800;
+    font-size: 32px;
+    text-align: center;
+}
+.ins-description{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+.ins-video{
+    width: 1067px;
+    height: 550px;
+    border-radius: 16px;
+    align-content: center;
+    padding: 30px;
+}
